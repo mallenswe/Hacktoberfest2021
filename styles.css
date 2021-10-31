@@ -3,3 +3,11 @@
     text-align: center;
     margin: 10px 10px;
 }
+.halloween-card {
+    margin: 0 auto;
+}
+.card-body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
