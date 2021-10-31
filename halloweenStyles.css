@@ -1,0 +1,14 @@
+body,
+html {
+    height: 100%;
+}
+body {
+    background-image: url("https://cdn.abcotvs.com/dip/images/7219532_halloween.jpg?w=1280&r=16%3A9");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.title {
+    color: #ffffff;
+}
